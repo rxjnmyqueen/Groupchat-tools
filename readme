@@ -1,0 +1,36 @@
+GROUPCHAT tools by rxjn
+
+includes:
+noleave script
+forcename script
+
+2 in 1 script
+
+========================
+
+Make sure you have discord.py-self installed before running of the files or it won't work. see 'requirements.txt' for more info
+
+no leave.py
+stops people from leaving the gc
+u can use it on more than 1 user
+
+go to line 73 to change the delay it takes to add the person back to the gc.
+
+========================
+
+forcename.py
+stops people from changing the name of the gc
+automatically changes it back to ur desired gc name
+
+go to line 68 to increase or decrease the delay
+
+========================
+
+rxjn.py 
+has both scripts in 1 file for easier access
+also includes RPC streaming status
+can be toggled using .rpc
+and can be set using .rpcset "title"
+
+
+spam ctrl and c in the console to stop the script or use .quit (.quit only available in rxjn.py)

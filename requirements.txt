@@ -1,0 +1,5 @@
+You can install the current development version from the master branch like this:
+
+pip install git+https://github.com/dolfies/discord.py-self@master#egg=discord.py-self[voice,speed]
+
+Paste the line above into the console
